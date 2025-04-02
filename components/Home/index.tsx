@@ -1,10 +1,10 @@
-import AboutUs from "../about"
-import Awards from "../Awards"
-import Contact from "../contact"
-import ExpertiseSec from "../expertise"
-import Header from "../header"
-import Hero from "../header/hero"
-import Work from "../work"
+import AboutUs from "@/components/about"
+import Awards from "@/components/Awards"
+import Contact from "@/components/contact"
+import ExpertiseSec from "@/components/expertise"
+import Header from '@/components/header'
+import Hero from '@/components/header/hero'
+import Work from '@/components/work/index'
 
 function Home() {
   return (
